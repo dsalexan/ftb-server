@@ -68,32 +68,19 @@
   - ![TLauncher install](assets/tlauncher-install.png)
 - Click the **gear logo* at bottom-right, and choose *Settings*
   - ![TLauncher settings](assets/tlauncher-configuracoes.png)
-- In *Distinguir memória*, input *at least* **6124** (then click **Reter**)
+- In *Distinguir memória*, input *at least* **4096** (then click **Reter**)
   - ![TLauncher settings, RAM](assets/tlauncher-configuracoes-ram.png)
-- Close Minecraft (**not TLauncher, keep it open**), open Curse Forge
-- In Choose a game, pick **Minecraft**
-  - If the game is not automatically detected, input %appdata/.minecraft as directory
-- Install FTB Revelation modpack, version **3.4.0**
-  - ![Search FTB Revelation](assets/curseforge-ftb-search.png)
-- Open modpack page
-  - ![FTB Revelation](assets/curseforge-ftb-instance.png)
-- Open modpack folder
-  - ![FTB Revelation](assets/curseforge-ftb-folder.png)
-- Open mods folder
-  - ![FTB Revelation > mods](assets/curseforge-ftb-folder-mods.png)
-- Drag VOICE CHAT to folder (**check github repo**), and don't close the window
-  - ![Drag external mods](assets/curseforge-ftb-folder-mods-drag-WITHOUT%20OPTIFINE.png)
-- In TLauncher, open minecraft folder
-  - ![TLauncher, minecraft folder](assets/tlauncher-openfolder.png)
-- Copy all ***inexistent folders*** from *\<FTB instance folder\>* to *\<TLauncher minecraft folder\>*
-  - ![FTB instance -> TLauncher folder](assets/folder-instance-to-launcher.png)
-- Copy the ***config*** folder from *\<FTB instance folder\>* to *\<TLauncher minecraft folder\>*, replacing all files
-- Copy ***mod's folder CONTENT*** from *\<FTB instance folder\>/mods* to *\<TLauncher minecraft folder\>/mods*, replacing all files
-  - ![FTB instance -> TLauncher folder](assets/folder-instance-to-launcher-mods.png)
+- Click in TL Mods
+  - ![TL Mods](assets/tlauncher-mods.png)
+- Search for ***FTB Revelation***, then click *install* at first result
+  - ![TL Mods > FTB Revelation](assets/tlauncher-mods-search.png)
+- Change to ***mods*** tab, then search for ***Voice***, then click *install* at first result
+  - ![TL Mods > Voice chat](assets/tlauncher-mods-voice.png)
 
 ### Run
 - At TLauncher, click Play
-- It can take from **6 to 10 min** to start
+- Make sure the profile ***with FTB Revelation 3.4.0*** is selected
+- It can take from **6 up to 10 min** to start
 - If a message about *MineTogether*/*Offline client* appears, click **Continue**
 - Click Multiplayer > Add Server
 - Input server name and address (35.199.100.22:25565)
