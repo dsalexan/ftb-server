@@ -18,18 +18,41 @@
 
 ### Installation
 - Install Curse Forge
-- At Curse Forge, install FTB Revelation modpack, version 3.4.0
-- Open modpack folder, insert OPTIFINE and VOICE CHAT at mods (check github repo)
+- At Curse Forge, go to Home and choose Minecraft as game
+- Install FTB Revelation modpack, version **3.4.0**
+  - ![Search FTB Revelation](assets/curseforge-ftb-search.png)
+- Open modpack page
+  - ![FTB Revelation](assets/curseforge-ftb-instance.png)
+- Open modpack folder
+  - ![FTB Revelation](assets/curseforge-ftb-folder.png)
+- Open mods folder
+  - ![FTB Revelation > mods](assets/curseforge-ftb-folder-mods.png)
+- Drag OPTIFINE and VOICE CHAT to folder (**check github repo**)
+  - ![Drag external mods](assets/curseforge-ftb-folder-mods-drag.png)
 
 ### Configuration
 
 #### Recommended Specs
-- At Curse Forge, go to Installations
-- Select "Edit" at FTB Revelations
+- At Curse Forge, click Play
+  - ![Curse Forge > Play](assets/curseforge-ftb-play.png)
+- Go to Installations > FTB Revelations > Edit
+  - ![Edit FTB Revelations instance](assets/minecraft-edit.png)
 - More options
+  - ![More options](assets/minecraft-edit-options.png)
 - Replace *4096M* by *8G* and *256M* by *4G*
+  - ![JMV Arguments](assets/minecraft-edit-options-args.png)
 
 ### Run
+- At Curse Forge, click Play
+  - ![Curse Forge > Play](assets/curseforge-ftb-play.png)
+- Make sure FTB Revelations is selected, then click Play
+  - ![Curse Forge > Play](assets/minecraft-play.png)
+- It can take from **6 to 10 min** to start
+- Click Multiplayer > Add Server
+- Input server name and address (35.199.100.22:25565)
+  - ![Curse Forge > Play](assets/minecraft-multiplayer-server.png)
+
+#### Minecraft Launcher Run times
 - *15/12, started at 20:34 and ended at 20:40* — **~6min** (at 4GB)
 - *15/12, started at 21:06 and ended at 21:10* — **~4min** (at 10GB)
 
