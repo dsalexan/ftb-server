@@ -59,12 +59,37 @@
 ## Pirate
 
 ### Installation
-- Download Shiginima Launcher (https://mc-pc.net/launchers/343-shiginima.html)
-- (???) Download Forge 1.12.2 (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
-- Download FTB Revelation (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+- Install TLauncher (https://tlauncher.org/en/)
+- Select version **ForgeOptifine 1.12.2** or **Forge 1.12.2**, then click Install
+  - ![TLauncher install](assets/tlauncher-install.png)
+- Close Minecraft (**not TLauncher, keep it open**), open Curse Forge
+- In Choose a game, pick **Minecraft**
+  - If the game is not automatically detected, input %appdata/.minecraft as directory
+- Install FTB Revelation modpack, version **3.4.0**
+  - ![Search FTB Revelation](assets/curseforge-ftb-search.png)
+- Open modpack page
+  - ![FTB Revelation](assets/curseforge-ftb-instance.png)
+- Open modpack folder
+  - ![FTB Revelation](assets/curseforge-ftb-folder.png)
+- Open mods folder
+  - ![FTB Revelation > mods](assets/curseforge-ftb-folder-mods.png)
+- Drag VOICE CHAT to folder (**check github repo**), and don't close the window
+  - ![Drag external mods](assets/curseforge-ftb-folder-mods-drag-WITHOUT%20OPTIFINE.png)
+- In TLauncher, open minecraft folder
+  - ![TLauncher, minecraft folder](assets/tlauncher-openfolder.png)
+- Copy all ***inexistent folders*** from *\<FTB instance folder\>* to *\<TLauncher minecraft folder\>*
+  - ![FTB instance -> TLauncher folder](assets/folder-instance-to-launcher.png)
+- Copy the ***config*** folder from *\<FTB instance folder\>* to *\<TLauncher minecraft folder\>*, replacing all files
+- Copy ***mod's folder CONTENT*** from *\<FTB instance folder\>/mods* to *\<TLauncher minecraft folder\>/mods*, replacing all files
+  - ![FTB instance -> TLauncher folder](assets/folder-instance-to-launcher-mods.png)
 
-### Setup
-***not implemented***
+### Run
+- At TLauncher, click Play
+- It can take from **6 to 10 min** to start
+- If a message about *MineTogether*/*Offline client* appears, click **Continue**
+- Click Multiplayer > Add Server
+- Input server name and address (35.199.100.22:25565)
+  - ![Curse Forge > Play](assets/minecraft-multiplayer-server.png)
 
 # Server
 
