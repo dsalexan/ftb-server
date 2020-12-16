@@ -62,6 +62,10 @@
 - Install TLauncher (https://tlauncher.org/en/)
 - Select version **ForgeOptifine 1.12.2** or **Forge 1.12.2**, then click Install
   - ![TLauncher install](assets/tlauncher-install.png)
+- Click the **gear logo* at bottom-right, and choose *Settings*
+  - ![TLauncher settings](assets/tlauncher-configuracoes.png)
+- In *Distinguir memória*, input *at least* **4096** (then click **Reter**)
+  - ![TLauncher settings, RAM](assets/tlauncher-configuracoes-ram.png)
 - Close Minecraft (**not TLauncher, keep it open**), open Curse Forge
 - In Choose a game, pick **Minecraft**
   - If the game is not automatically detected, input %appdata/.minecraft as directory
