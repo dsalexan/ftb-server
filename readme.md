@@ -1,3 +1,7 @@
+# Index
+- Para contas originais do Minecraft: [Client](https://github.com/dsalexan/ftb-server#client)
+- Para acesso pirata: [Pirate](https://github.com/dsalexan/ftb-server#pirate)
+
 # Client
 
 ## Specs
