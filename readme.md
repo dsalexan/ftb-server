@@ -118,7 +118,7 @@ At server folder, open mods and add:
 
 ### Start in screen
 
-**sudo screen sh ./start.sh**
+**sudo screen -S server sh ./start.sh**
 
 - *15/12, started at 20:35 and ended at 20:40* — **~5min**
 
@@ -126,4 +126,4 @@ At server folder, open mods and add:
 CTRL + A + D
 
 ### Rettach to screen
-screen -r
+sudo screen -r server
