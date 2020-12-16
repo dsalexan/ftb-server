@@ -1,41 +1,43 @@
-# Setup
+# Server
 
-## Criar VM para minecraft
+## Setup
+
+### Criar VM para minecraft
 https://cloud.google.com/solutions/gaming/minecraft-server#schedule_backups
 
-## Habilitar ftp na VM
+### Habilitar ftp na VM
 https://cloud.google.com/compute/docs/instances/transfer-files#winscp
 
-## Liberar acesso em pasta no Linux
+### Liberar acesso em pasta no Linux
 https://askubuntu.com/questions/402980/give-user-write-access-to-folder
 
-## Instalar FTB Revelation (ou FTB modpack qualquer)
+### Instalar FTB Revelation (ou FTB modpack qualquer)
 https://forum.feed-the-beast.com/threads/guide-basic-notes-on-installing-ftb-infinity-evolved-server-on-linux-ubuntu-18-04-lts.302815/
 
 - Jogar arquivo de instalação do FTB para linux dentro do server
 
-### server.properties
+#### server.properties
 - online-mode=false *Q Q CUSTA COMPRAR A PORRA DO JOGO*
 
-### ops.json
+#### ops.json
 - Inserir nicks de administradores
 
-## External mods
+### External mods
 At server folder, open mods and add:
 - Voice chat
 
-# Serve
+## Serve
 
-## Start in screen
+### Start in screen
 
 **sudo screen sh ./start.sh**
 
 - *15/12, started at 20:35 and ended at 20:40* — **~5min**
 
-## Dettach from screen
+### Dettach from screen
 CTRL + A + D
 
-## Rettach to screen
+### Rettach to screen
 screen -r
 
 # Client
