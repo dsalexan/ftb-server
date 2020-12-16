@@ -1,3 +1,48 @@
+# Client
+
+## Specs
+
+### Minimum
+- **DO NOT USE OPTIFINE**
+- **RAM**: *4GB*
+
+### Recommended
+- **RAM**: *8GB*
+
+## Server
+
+### IP
+35.199.100.22:25565
+
+## Original
+
+### Installation
+- Install Curse Forge
+- At Curse Forge, install FTB Revelation modpack, version 3.4.0
+- Open modpack folder, insert OPTIFINE and VOICE CHAT at mods (check github repo)
+
+### Configuration
+
+#### Recommended Specs
+- At Curse Forge, go to Installations
+- Select "Edit" at FTB Revelations
+- More options
+- Replace *4096M* by *8G* and *256M* by *4G*
+
+### Run
+- *15/12, started at 20:34 and ended at 20:40* — **~6min** (at 4GB)
+- *15/12, started at 21:06 and ended at 21:10* — **~4min** (at 10GB)
+
+## Pirate
+
+### Installation
+- Download Shiginima Launcher (https://mc-pc.net/launchers/343-shiginima.html)
+- (???) Download Forge 1.12.2 (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+- Download FTB Revelation (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+
+### Setup
+***not implemented***
+
 # Server
 
 ## Setup
@@ -39,45 +84,3 @@ CTRL + A + D
 
 ### Rettach to screen
 screen -r
-
-# Client
-
-## Specs
-
-### Minimum
-- **DO NOT USE OPTIFINE**
-- **RAM**: *4GB*
-
-### Recommended
-- **RAM**: *8GB*
-
-## Original
-
-### Installation
-- Install Curse Forge
-- Install FTB Revelation modpack, version 3.4.0
-- Open modpack folder, insert OPTIFINE and VOICE CHAT at mods
-
-### Configuration
-
-#### Recommended Specs
-- At Curse Forge, go to Installations
-- Select "Edit" at FTB Revelations
-- More options
-- Replace *4096M* by *8G* and *256M* by *4G*
-
-### Run
-- *15/12, started at 20:34 and ended at 20:40* — **~6min** (at 4GB)
-- *15/12, started at 21:06 and ended at 21:10* — **~4min** (at 10GB)
-
-### Access server
-35.199.100.22:25565
-
-## Pirate
-
-### Installation
-- Download Shiginima Launcher (https://mc-pc.net/launchers/343-shiginima.html)
-- (???) Download Forge 1.12.2 (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
-- Download FTB Revelation (http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
-
-### Setup
