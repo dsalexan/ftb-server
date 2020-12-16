@@ -65,6 +65,7 @@
 - Click the **gear logo* at bottom-right, and choose *Settings*
   - ![TLauncher settings](assets/tlauncher-configuracoes.png)
 - In *Distinguir memória*, input *at least* **4096** (then click **Reter**)
+  - It runs faster with more RAM, the *ideal* minimul is **6G**
   - ![TLauncher settings, RAM](assets/tlauncher-configuracoes-ram.png)
 - Close Minecraft (**not TLauncher, keep it open**), open Curse Forge
 - In Choose a game, pick **Minecraft**
