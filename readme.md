@@ -20,18 +20,18 @@
 
 ## Original
 
-### Installation
-- Install Curse Forge
-- At Curse Forge, go to Home and choose Minecraft as game
-- Install FTB Revelation modpack, version **3.4.0**
+### 1) Installation
+- 1) Install Curse Forge
+- 2) At Curse Forge, go to Home and choose Minecraft as game
+- 3) Install FTB Revelation modpack, version **3.4.0**
   - ![Search FTB Revelation](assets/curseforge-ftb-search.png)
-- Open modpack page
+- 4) Open modpack page
   - ![FTB Revelation](assets/curseforge-ftb-instance.png)
-- Open modpack folder
+- 5) Open modpack folder
   - ![FTB Revelation](assets/curseforge-ftb-folder.png)
-- Open mods folder
+- 6) Open mods folder
   - ![FTB Revelation > mods](assets/curseforge-ftb-folder-mods.png)
-- Drag OPTIFINE and VOICE CHAT to folder (**check github repo**)
+- 7) Drag OPTIFINE and VOICE CHAT to folder (**check github repo**)
   - ![Drag external mods](assets/curseforge-ftb-folder-mods-drag.png)
 
 ### Configuration
@@ -43,7 +43,7 @@
   - ![Edit FTB Revelations instance](assets/minecraft-edit.png)
 - More options
   - ![More options](assets/minecraft-edit-options.png)
-- Replace *4096M* by *8G* and *256M* by *4G*
+- Replace *4096M* by *8G* and *256M* by *4.5G*
   - ![JMV Arguments](assets/minecraft-edit-options-args.png)
 
 ### Run
@@ -68,7 +68,7 @@
   - ![TLauncher install](assets/tlauncher-install.png)
 - Click the **gear logo* at bottom-right, and choose *Settings*
   - ![TLauncher settings](assets/tlauncher-configuracoes.png)
-- In *Distinguir memória*, input *at least* **4096** (then click **Reter**)
+- In *Distinguir memória*, input *at least* **4500** (then click **Reter**)
   - ![TLauncher settings, RAM](assets/tlauncher-configuracoes-ram.png)
 - Click in TL Mods
   - ![TL Mods](assets/tlauncher-mods.png)
