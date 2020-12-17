@@ -87,6 +87,13 @@
   - ![Curse Forge > Play](assets/minecraft-multiplayer-server.png)
 
 # Server
+***ESSA SEÇÃO DO TUTORIAL É SÓ PRO CONDENADO QUE TIVER QUE SUBIR UM SERVIDOR NOVO***
+
+***SE TU SÓ QUER JOGAR NUM SERVIDOR Q JA EXISTE, O TUTORIAL ACABOU***
+
+***SE ESSE NÃO É O CASO PRA TU***
+
+***BOA SORTE***
 
 ## Setup
 
@@ -127,3 +134,4 @@ CTRL + A + D
 
 ### Rettach to screen
 sudo screen -r server
+
