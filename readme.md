@@ -8,7 +8,7 @@
 
 ### Minimum
 - **DO NOT USE OPTIFINE**
-- **RAM**: *4GB*
+- **RAM**: *4.5GB*
 
 ### Recommended
 - **RAM**: *8GB*
