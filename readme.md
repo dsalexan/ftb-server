@@ -53,7 +53,7 @@
   - ![Curse Forge > Play](assets/minecraft-play.png)
 - It can take from **6 to 10 min** to start
 - Click Multiplayer > Add Server
-- Input server name and address (35.199.100.22:25565)
+- Input server name (A Xmas Special) and address (35.199.100.22:25565)
   - ![Curse Forge > Play](assets/minecraft-multiplayer-server.png)
 
 #### Minecraft Launcher Run times
