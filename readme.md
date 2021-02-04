@@ -43,7 +43,8 @@
   - ![Edit FTB Revelations instance](assets/minecraft-edit.png)
 - More options
   - ![More options](assets/minecraft-edit-options.png)
-- Replace *4096M* by *8G* and *256M* by *4.5G*
+- Replace *4096M* by *5G*
+  - Esse "-Xmx4096m" é a memoria RAM dedicada ao minecraft. Pra rodar com esse modpack o minimo mesmo seria uns "4500M", então recomendo colocar um valor ao redor disso. Deixar 4096m (em outras palavras, 4GB de ram dedicada) pode dar ruim. Sei la, honestamente. Não sou especialista.
   - ![JMV Arguments](assets/minecraft-edit-options-args.png)
 
 ### Run
@@ -69,6 +70,7 @@
 - Click the **gear logo* at bottom-right, and choose *Settings*
   - ![TLauncher settings](assets/tlauncher-configuracoes.png)
 - In *Distinguir memória*, input *at least* **4500** (then click **Reter**)
+  - Esse "-Xmx4096m" é a memoria RAM dedicada ao minecraft. Pra rodar com esse modpack o minimo mesmo seria uns "4500M", então recomendo colocar um valor ao redor disso. Deixar 4096m (em outras palavras, 4GB de ram dedicada) pode dar ruim. Sei la, honestamente. Não sou especialista.
   - ![TLauncher settings, RAM](assets/tlauncher-configuracoes-ram.png)
 - Click in TL Mods
   - ![TL Mods](assets/tlauncher-mods.png)
